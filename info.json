@@ -1,0 +1,11 @@
+﻿{
+	"name": "en-CN-Add",
+	"version": "0.0.2",
+	"title": "汉化补充",
+	"author": "maningyouself",
+	"contact": "暂无",
+	"homepage": "暂无",
+	"description": "解决部分MOD不完全汉化问题。联系：maningyou@163.com",
+	"factorio_version":"1.1",
+	"dependencies":	["base >= 1.1"]
+}
